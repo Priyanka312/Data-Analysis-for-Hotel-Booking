@@ -1,9 +1,9 @@
-🏨 #Hotel Booking Cancellation Analysis
-##📊 Project Overview
+<h1 align="center">🏨 Hotel Booking Cancellation Analysis </h1></br>
+<h2 align="left">📊 Project Overview
 
 This project analyzes booking cancellations for City Hotel and Resort Hotel to identify key factors influencing cancellation rates and provide actionable recommendations to increase revenue and room utilization. Using real-world hotel booking data (2015–2017), the analysis explores trends in pricing, seasonality, customer origins, and booking channels.
 
-#🎯 Business Problem
+<h2 align="left">🎯 Business Problem
 
 Both hotels have experienced high cancellation rates, leading to:
 
