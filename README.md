@@ -1,37 +1,32 @@
 <h1 align="center">🏨 Hotel Booking Cancellation Analysis </h1></br>
 <h2 align="left">📊 Project Overview
-
+<p align="justify">
 This project analyzes booking cancellations for City Hotel and Resort Hotel to identify key factors influencing cancellation rates and provide actionable recommendations to increase revenue and room utilization. Using real-world hotel booking data (2015–2017), the analysis explores trends in pricing, seasonality, customer origins, and booking channels.
-
+</p>p
 <h2 align="left">🎯 Business Problem
-
+<p align="justify">
 Both hotels have experienced high cancellation rates, leading to:
-
 Decreased revenue
-
 Poor room utilization
-
 Inefficient pricing and promotional strategies
 
 The goal is to identify why customers cancel bookings and recommend data-driven strategies to minimize cancellations.
-
-📈 Objectives
-
+</p>
+<h2 align="left">📈 Objectives
+<p align="justify">
 Identify variables affecting hotel reservation cancellations.
 
 Recommend ways to reduce cancellations.
 
 Support hotels in pricing and promotional decision-making.
+</p>
+<h2 align="left">🧠 Hypotheses
 
-🧠 Hypotheses
+1.Higher prices lead to more cancellations.
+2.Longer waiting lists increase cancellation likelihood.
+3.Most customers book via offline travel agents.
 
-Higher prices lead to more cancellations.
-
-Longer waiting lists increase cancellation likelihood.
-
-Most customers book via offline travel agents.
-
-⚙️ Methodology
+<h2 align="left">⚙️ Methodology
 
 Data Cleaning & Preparation: Removed nulls, duplicates, and outliers (2015–2017).
 
@@ -41,7 +36,7 @@ Feature Analysis: Explored cancellation patterns by price, month, hotel type, an
 
 Visualization: Created charts and graphs to reveal business insights.
 
-🔍 Key Insights
+<h2 align="left">🔍 Key Insights
 
 37% of total bookings are canceled.
 
@@ -55,7 +50,7 @@ Portugal has the highest number of cancellations.
 
 46% of bookings come through online travel agencies, while direct bookings are minimal.
 
-💡 Recommendations
+<h2 align="left">💡 Recommendations
 
 Revise Pricing Strategy: Offer dynamic pricing and promotions during high-rate periods.
 
@@ -67,7 +62,7 @@ Discount Weekends & Holidays: For resort hotels, use discounts to reduce cancell
 
 Diversify Booking Channels: Encourage direct bookings through loyalty programs and exclusive discounts.
 
-🛠️ Tools & Technologies
+<h2 align="left">🛠️ Tools & Technologies
 
 Python: Data analysis and visualization
 
@@ -75,7 +70,7 @@ Libraries: pandas, matplotlib, seaborn
 
 Jupyter Notebook: Interactive analysis and visualization
 
-📁 Deliverables
+<h2 align="left">📁 Deliverables
 
 Data cleaning and preprocessing scripts
 
@@ -83,6 +78,6 @@ Visualization dashboards for trend analysis
 
 Analytical report with business recommendations
 
-📚 Conclusion
+<h2 align="left">📚 Conclusion
 
 This project demonstrates how data analytics can uncover revenue-impacting patterns in hotel bookings. By optimizing pricing, improving customer engagement, and focusing on channel management, hotels can significantly reduce cancellations and maximize occupancy.
