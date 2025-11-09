@@ -4,6 +4,7 @@
 <p align="justify" style="font-size:16px;">
 This project analyzes booking cancellations for City Hotel and Resort Hotel to identify key factors influencing cancellation rates and provide actionable recommendations to increase revenue and room utilization. Using real-world hotel booking data (2015–2017), the analysis explores trends in pricing, seasonality, customer origins, and booking channels.
 </p>
+  
 <h2 align="left">🎯 Business Problem
   <br><br><br>
 <p align="justify" style="font-size:16px;">
@@ -15,6 +16,7 @@ Inefficient pricing and promotional strategies
 The goal is to identify why customers cancel bookings and recommend data-driven strategies to minimize cancellations.
 </p>
 <h2 align="left">📈 Objectives
+  <br><br><br>
 <p align="justify" style="font-size:16px;>
 Identify variables affecting hotel reservation cancellations.
 
@@ -23,13 +25,13 @@ Recommend ways to reduce cancellations.
 Support hotels in pricing and promotional decision-making.
 </p>
 <h2 align="left">🧠 Hypotheses
-
+<br><br>
 1.Higher prices lead to more cancellations.
 2.Longer waiting lists increase cancellation likelihood.
 3.Most customers book via offline travel agents.
 
 <h2 align="left">⚙️ Methodology
-
+<br><br>
 Data Cleaning & Preparation: Removed nulls, duplicates, and outliers (2015–2017).
 
 Exploratory Data Analysis (EDA): Performed in Python, using pandas, matplotlib, and seaborn.
@@ -39,7 +41,7 @@ Feature Analysis: Explored cancellation patterns by price, month, hotel type, an
 Visualization: Created charts and graphs to reveal business insights.
 
 <h2 align="left">🔍 Key Insights
-
+<br><br>
 37% of total bookings are canceled.
 
 City hotels receive more bookings than resort hotels, possibly due to lower prices.
@@ -53,7 +55,7 @@ Portugal has the highest number of cancellations.
 46% of bookings come through online travel agencies, while direct bookings are minimal.
 
 <h2 align="left">💡 Recommendations
-
+<br><br>
 Revise Pricing Strategy: Offer dynamic pricing and promotions during high-rate periods.
 
 Target Off-Season Months: Run marketing campaigns in January to boost confirmed bookings.
@@ -65,7 +67,7 @@ Discount Weekends & Holidays: For resort hotels, use discounts to reduce cancell
 Diversify Booking Channels: Encourage direct bookings through loyalty programs and exclusive discounts.
 
 <h2 align="left">🛠️ Tools & Technologies
-
+<br><br>
 Python: Data analysis and visualization
 
 Libraries: pandas, matplotlib, seaborn
@@ -73,7 +75,7 @@ Libraries: pandas, matplotlib, seaborn
 Jupyter Notebook: Interactive analysis and visualization
 
 <h2 align="left">📁 Deliverables
-
+<br><br>
 Data cleaning and preprocessing scripts
 
 Visualization dashboards for trend analysis
