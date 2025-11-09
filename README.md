@@ -27,48 +27,48 @@ Support hotels in pricing and promotional decision-making.
 
 <h2 align="left">🧠 Hypotheses
 <br><br>
-1.Higher prices lead to more cancellations.
-2.Longer waiting lists increase cancellation likelihood.
-3.Most customers book via offline travel agents.
+1.Higher prices lead to more cancellations.<br>
+2.Longer waiting lists increase cancellation likelihood.<br>
+3.Most customers book via offline travel agents.<br>
 
 <h2 align="left">⚙️ Methodology
 <br><br>
 <p align="justify" style="font-size:14px;">
-Data Cleaning & Preparation: Removed nulls, duplicates, and outliers (2015–2017).
+1.Data Cleaning & Preparation: Removed nulls, duplicates, and outliers (2015–2017). <br>
 
-Exploratory Data Analysis (EDA): Performed in Python, using pandas, matplotlib, and seaborn.
+2.Exploratory Data Analysis (EDA): Performed in Python, using pandas, matplotlib, and seaborn. <br>
 
-Feature Analysis: Explored cancellation patterns by price, month, hotel type, and country.
+3.Feature Analysis: Explored cancellation patterns by price, month, hotel type, and country.<br>
 
-Visualization: Created charts and graphs to reveal business insights.
+4.Visualization: Created charts and graphs to reveal business insights.<br>
 </p>
 <h2 align="left">🔍 Key Insights
 <br><br>
   <p align="justify" style="font-size:14px;">
-1.37% of total bookings are canceled.
+1.37% of total bookings are canceled.<br>
 
-2.City hotels receive more bookings than resort hotels, possibly due to lower prices.
+2.City hotels receive more bookings than resort hotels, possibly due to lower prices.<br>
 
-3.August shows the highest booking and cancellation volume; January shows peak cancellations.
+3.August shows the highest booking and cancellation volume; January shows peak cancellations.<br>
 
-4.Higher ADR (Average Daily Rate) directly correlates with increased cancellations.
+4.Higher ADR (Average Daily Rate) directly correlates with increased cancellations.<br>
 
-5.Portugal has the highest number of cancellations.
+5.Portugal has the highest number of cancellations.<br>
 
-6.46% of bookings come through online travel agencies, while direct bookings are minimal.
+6.46% of bookings come through online travel agencies, while direct bookings are minimal.<br>
 </p>
 <h2 align="left">💡 Recommendations
 <br><br>
 <p align="justify" style="font-size:14px;">
-1.Revise Pricing Strategy: Offer dynamic pricing and promotions during high-rate periods.
+1.Revise Pricing Strategy: Offer dynamic pricing and promotions during high-rate periods.<br>
 
-2.Target Off-Season Months: Run marketing campaigns in January to boost confirmed bookings.
+2.Target Off-Season Months: Run marketing campaigns in January to boost confirmed bookings.<br>
 
-3.Improve Guest Experience: Enhance hospitality quality, especially in regions with high cancellations (e.g., Portugal).
+3.Improve Guest Experience: Enhance hospitality quality, especially in regions with high cancellations (e.g., Portugal).<br>
 
-4.Discount Weekends & Holidays: For resort hotels, use discounts to reduce cancellations during peak price periods.
+4.Discount Weekends & Holidays: For resort hotels, use discounts to reduce cancellations during peak price periods.<br>
 
-5.Diversify Booking Channels: Encourage direct bookings through loyalty programs and exclusive discounts.
+5.Diversify Booking Channels: Encourage direct bookings through loyalty programs and exclusive discounts.<br>
 
 <h2 align="left">🛠️ Tools & Technologies
 <br><br>
