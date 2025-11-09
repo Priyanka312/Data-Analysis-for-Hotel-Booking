@@ -1,6 +1,6 @@
 <h1 align="center">🏨 Hotel Booking Cancellation Analysis </h1></br>
 <h2 align="left">📊 Project Overview
-<p align="justify" style="font-size:16px;>
+<p align="justify" style="font-size:16px;">
 This project analyzes booking cancellations for City Hotel and Resort Hotel to identify key factors influencing cancellation rates and provide actionable recommendations to increase revenue and room utilization. Using real-world hotel booking data (2015–2017), the analysis explores trends in pricing, seasonality, customer origins, and booking channels.
 </p>
 <h2 align="left">🎯 Business Problem
